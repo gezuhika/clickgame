@@ -13,7 +13,7 @@
   "author": "gezu",
   "license": "ISC",
   "dependencies": {
-    "yarn": "^1.17.3",
+    "yarn": "^1.22.0",
     "yarn-install": "^1.0.0"
   }
 }
